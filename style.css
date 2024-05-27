@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(5, 59, 185, 0.787);
+    width: 100%;
+}
+
+.container{
+    width: 1200px ;
+    margin: 0 auto;
+}
+
+button{
+    border-radius: 5px;
+    border: none;
+    background-color:crimson;
+    padding: 6px;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.table{
+    margin: 50px 100px;
+    width: 87%;
+    border-collapse: collapse;
+    font-size: 10px;
+}
